@@ -15,7 +15,7 @@ There was also a dropout of .5 used in the first FC layers. The model uses relu 
 I tried playing around with the activation functions and found that relu yielded the best results given the training set. 
 Changing the loss function to mean squared error also yielded worse results so I decided to leave that as it was. 
 
-===============================================================================================================================================================================
+====================================================================================================================
 In order to run the code put the video into the working directory and type this command line: 
 
 $ Detect_.py  --video Name of video file
