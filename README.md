@@ -15,10 +15,13 @@ There was also a dropout of .5 used in the first FC layers. The model uses relu 
 I tried playing around with the activation functions and found that relu yielded the best results given the training set. 
 Changing the loss function to mean squared error also yielded worse results so I decided to leave that as it was. 
 
+===============================================================================================================================================================================
 In order to run the code put the video into the working directory and type this command line: 
 
 $ Detect_.py  --video Name of video file
+
 There will then be a prompt for the name of the output txt file.
+
 Afterward, when the detection is complete there will be a message that says “Detection Complete” at which point the file 
 will have been created and will contain lines detailing the frame number as well as where and what digits are detected on that frame. 
 
