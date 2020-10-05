@@ -27,7 +27,7 @@ There will then be a prompt for the name of the output txt file.
 Afterward, when the detection is complete there will be a message that says “Detection Complete” at which point the file 
 will have been created and will contain lines detailing the frame number as well as where and what digits are detected on that frame. 
 
-
+===============================================================================
 Projects Cited:
 SVHN Deep Digit Detector: Author – Jeong Joon Sup
 https://github.com/penny4860/SVHN-deep-digit-detector
