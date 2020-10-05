@@ -17,6 +17,7 @@ I tried playing around with the activation functions and found that relu yielded
 Changing the loss function to mean squared error also yielded worse results so I decided to leave that as it was. 
 
 ================================================================================
+
 In order to run the code put the video into the working directory and type this command line: 
 
 $ Detect_.py  --video Name of video file
